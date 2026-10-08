@@ -3,7 +3,7 @@
 ## 📁 Project Structure
 
 ```
-hey-cicd/
+ hey-cicd/
 ├── app/
 │   ├── app.py              # Flask application
 │   ├── templates/
